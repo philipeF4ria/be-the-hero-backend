@@ -1,1 +1,5 @@
 node_modules
+knexfile.js
+*.sqlite
+yarn.lock
+package-lock.json
